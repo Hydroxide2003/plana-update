@@ -1,0 +1,10 @@
+{
+ "ver": "9.9.9-test",
+ "note": "连通性测试",
+ "files": {
+  ".tscfg": {
+   "sha256": "a3411c7e86e8e61d49bf5aec1620687d0d8eb991dba84778b047d29b829e3d48",
+   "target": "config"
+  }
+ }
+}
