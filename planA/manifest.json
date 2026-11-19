@@ -1,5 +1,14 @@
 {
- "ver": "2.2.0",
- "note": "初始版本",
- "files": {}
+ "ver": "2.2.1",
+ "note": "适配 TMP 新版本",
+ "files": {
+  ".tscfg": {
+   "sha256": "bb23242131632c185a9fc08e7c75db96741885959cf7444588e9ed208bfaf707",
+   "target": "config"
+  },
+  "plana_plugin.dll": {
+   "sha256": "90c7f9fb353e0abff00103dcb2e4fb7551bdc720bc7a4ecbfa0b7a21e979336c",
+   "target": "dll"
+  }
+ }
 }
