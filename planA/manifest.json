@@ -3,11 +3,11 @@
  "note": "适配 TMP 新版本",
  "files": {
   ".tscfg": {
-   "sha256": "bb23242131632c185a9fc08e7c75db96741885959cf7444588e9ed208bfaf707",
+   "sha256": "872bb09d90f0dd968a8a3aef74851b5dd05bf621829ec9f1f3e3e580af608604",
    "target": "config"
   },
   "plana_plugin.dll": {
-   "sha256": "90c7f9fb353e0abff00103dcb2e4fb7551bdc720bc7a4ecbfa0b7a21e979336c",
+   "sha256": "b0ce6a823fd811e56efa63923f4b99a1e84baa444c9536a8f7a9861f96d5de38",
    "target": "dll"
   }
  }
